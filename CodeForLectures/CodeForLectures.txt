@@ -1,0 +1,1 @@
+./Debug/Lecture6.c.o ./Debug/Lecture5.c.o ./Debug/Lecture1.c.o ./Debug/Lecture3.c.o ./Debug/main.c.o ./Debug/Lecture2.c.o ./Debug/example4code.c.o ./Debug/Lecture4.c.o
