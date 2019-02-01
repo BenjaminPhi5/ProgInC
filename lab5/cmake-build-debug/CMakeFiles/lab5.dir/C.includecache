@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Ben/Dropbox/UniversityOfCambridgeDrive/Cambridge/IB/FirstTerm/ProgrammingInC/coding/labs/lab5/expr.c
+stdlib.h
+-
+stdio.h
+-
+expr.h
+/Users/Ben/Dropbox/UniversityOfCambridgeDrive/Cambridge/IB/FirstTerm/ProgrammingInC/coding/labs/lab5/expr.h
+
+/Users/Ben/Dropbox/UniversityOfCambridgeDrive/Cambridge/IB/FirstTerm/ProgrammingInC/coding/labs/lab5/expr.h
+
+/Users/Ben/Dropbox/UniversityOfCambridgeDrive/Cambridge/IB/FirstTerm/ProgrammingInC/coding/labs/lab5/lab5.c
+stdio.h
+-
+stdlib.h
+-
+expr.h
+/Users/Ben/Dropbox/UniversityOfCambridgeDrive/Cambridge/IB/FirstTerm/ProgrammingInC/coding/labs/lab5/expr.h
+parse.h
+/Users/Ben/Dropbox/UniversityOfCambridgeDrive/Cambridge/IB/FirstTerm/ProgrammingInC/coding/labs/lab5/parse.h
+
+/Users/Ben/Dropbox/UniversityOfCambridgeDrive/Cambridge/IB/FirstTerm/ProgrammingInC/coding/labs/lab5/parse.c
+stdlib.h
+-
+expr.h
+/Users/Ben/Dropbox/UniversityOfCambridgeDrive/Cambridge/IB/FirstTerm/ProgrammingInC/coding/labs/lab5/expr.h
+parse.h
+/Users/Ben/Dropbox/UniversityOfCambridgeDrive/Cambridge/IB/FirstTerm/ProgrammingInC/coding/labs/lab5/parse.h
+
+/Users/Ben/Dropbox/UniversityOfCambridgeDrive/Cambridge/IB/FirstTerm/ProgrammingInC/coding/labs/lab5/parse.h
+expr.h
+/Users/Ben/Dropbox/UniversityOfCambridgeDrive/Cambridge/IB/FirstTerm/ProgrammingInC/coding/labs/lab5/expr.h
+
